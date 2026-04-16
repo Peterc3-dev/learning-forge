@@ -57,6 +57,18 @@ Progress is tracked per-section. Some areas are deep, some are just getting star
 
 ---
 
+## Portfolio Highlights
+
+| Entry | Description |
+|-------|-------------|
+| [NPU Driver Investigation](portfolio/npu-driver-investigation/) | Root-cause analysis of AMD XDNA NPU driver failure on Strix Point (amd/xdna-driver #1257) |
+| [Sec+ Targeted Study Guide](cybersecurity/sec-plus-targeted-study/) | SY0-701 study guide focused on GRC and Security Architecture domains |
+| [Pius NDJSON Specification](cybersecurity/pius-ndjson-spec/) | Pius OSINT tool's NDJSON output format, filter rules, and Rust integration |
+| [Bolt MCP Evaluation](cybersecurity/bolt-mcp-evaluation/) | 45-tool MCP security server — validated ffuf, auth flow, RCE warning |
+| [Security Tools Index](cybersecurity/tools-index/) | Pipeline tools with links to official repos + original run reports |
+
+---
+
 ## Connected Repos
 
 Tools and shipped projects live in their own repositories:

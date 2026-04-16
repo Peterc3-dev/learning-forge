@@ -22,7 +22,7 @@ tags: [security+, comptia, certification, study-guide, GRC, security-architectur
 | 1. General Security Concepts | 12% | Low — most of this is intuitive | 4th |
 | 2. Threats, Attacks & Vulnerabilities | 22% | Medium — you know the tech, exam frames it differently | 3rd |
 | 3. Security Architecture | 18% | **High** — formal models, frameworks, encryption schemes | 2nd |
-| 4. Security Operations | 28% | Medium — incident response流程 is standardized | 5th |
+| 4. Security Operations | 28% | Medium — incident response process is standardized | 5th |
 | 5. Governance, Risk & Compliance | 15% | **High** — policy/risk frameworks are NOT intuitive | 1st |
 
 **Strategy:** GRC (15%) + Security Architecture (18%) = 33% of the exam and the two domains most likely to account for the gap. A self-taught practitioner who knows how attacks work often loses points on "which framework applies to this scenario" questions.
